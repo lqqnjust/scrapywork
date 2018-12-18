@@ -5,4 +5,4 @@ from django.apps import AppConfig
 
 class WeiboConfig(AppConfig):
     name = 'weibo'
-    verbose_name = u'微博数据'
+    verbose_name = u'微博'
